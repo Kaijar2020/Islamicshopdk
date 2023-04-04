@@ -4,6 +4,9 @@ import org.openqa.selenium.By;
 
 public class CheckOutPage extends BasePage {
 	
+	public String GOTO_CART  = "https://islamicshopdk.com/cart";
+	public By CLICK_ON_PROCEED_CHECKOUT  = By.xpath("//a[contains(text(),'Proceed to checkout')]");
+	
 	public By FIRST_NAME_FIELD = By.xpath("//input[@id=\"billing_first_name\"]");
 	public By LAST_NAME_FIELD = By.xpath("//input[@id='billing_last_name']");
 	
