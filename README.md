@@ -18,5 +18,28 @@ This is a web automation project that automates the testing of the <a href="http
     <td>Programming Language</td>
     <td><b>Java</b></td>
    </tr>
-  <tr><td>Java</td></tr>
+    <tr>
+    <td>Browser Driver Management Library</td>
+    <td><b>WebDriverManager</b></td>
+   </tr>
+   <tr>
+    <td>Web Automation Tool</td>
+    <td><b>Selenium</b></td>
+   </tr>
+   <tr>
+    <td>Testing Framework</td>
+    <td><b>TestNG</b></td>
+   </tr>
+   <tr>
+    <td>IDE</td>
+    <td><b>Spring Tool Suite 4</b></td>
+   </tr>
+   <tr>
+    <td>Test Reporting Framework</td>
+    <td><b>Allure</b></td>
+   </tr>
 </table>
+
+---
+#### Feedback
+If you have any feedback, please reach out to me at kizarakibayon@gmail.com
