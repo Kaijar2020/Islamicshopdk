@@ -2,12 +2,12 @@
 
 This is a web automation project that automates the testing of the <a href="https://islamicshopdk.com">Islamic Shop Dhaka</a> website using Selenium WebDriver ,TestNG framework and Java. It follows best practices like the Page Object Model (POM), Singleton pattern. The project uses Allure report to generate detailed and interactive reports of the test results.
 
-<h5>Test Scenarios</h5>
--> Visit this site
--> Select  ক্যাটেগরি from the Menu 
--> Scroll Down and Go to the Next Page
--> View any book
-->Add to cart a book
-->Click Go to Cart
-->Click Checkout
-->Provide All Information on this page
+<h5>Test Steps</h5><br>
+-> Visit this site<br>
+-> Select  ক্যাটেগরি from the Menu <br>
+-> Scroll Down and Go to the Next Page<br>
+-> View any book<br>
+->Add to cart a book<br>
+->Click Go to Cart<br>
+->Click Checkout<br>
+->Provide All Information on this page<br>
