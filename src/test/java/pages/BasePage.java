@@ -36,10 +36,11 @@ public class BasePage {
 		WebElement el = getElement(locator);
 		el.sendKeys(text);
 	}
-	public void dropeDown(By locator,String text) {
+	public void dropeDown(By locator,String i) {
 		WebElement el = getElement(locator);
 		Select select = new Select(el);
-		select.selectByVisibleText(text);
+		//select.deselectAll();
+		select.selectByValue(i);
 	}
 
 }
