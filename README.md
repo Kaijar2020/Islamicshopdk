@@ -14,7 +14,9 @@ This is a web automation project that automates the testing of the <a href="http
 
 <h3>Languages And Frameworks</h3>
 <table>
-  <tr><td>Programming Language</td></tr>
-  <td><b>Java</b></td>
+  <tr>
+    <td>Programming Language</td>
+    <td><b>Java</b></td>
+   </tr>
   <tr><td>Java</td></tr>
 </table>
